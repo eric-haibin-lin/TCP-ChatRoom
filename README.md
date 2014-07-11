@@ -1,4 +1,4 @@
-CharRoom
+ChatRoom
 ========
 
-A server-client chartroom programme, for studying TCP.
+A server-client chatroom programme, for studying TCP.
