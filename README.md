@@ -1,4 +1,5 @@
 ChatRoom
 ========
 
-A server-client chatroom programme, for studying TCP.
+A multi-threaded chatroom programme, for studying TCP socket programming.
+
